@@ -1,0 +1,9 @@
+/*smart*/
+/*실행은 선택한상태에서 alt+x*/
+select * from smart;
+
+insert into SMART values ('suzi', '15')
+insert into SMART values ('jh', '0502')
+insert into SMART values ('unbi', '4444')
+delete from smart where ID = 'suzy'
+delete from smart where ID = 'unbi'

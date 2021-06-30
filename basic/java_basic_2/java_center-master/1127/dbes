@@ -1,0 +1,9 @@
+select * from SMARTMEMBER;
+
+create table smartmember
+(id varchar2(15),
+pw varchar2(25),
+name varchar2(10),
+age number(7)
+);
+

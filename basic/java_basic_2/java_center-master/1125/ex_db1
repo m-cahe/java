@@ -1,0 +1,3 @@
+select * from smart order by id;
+
+insert into SMART values('yh', '0803');
